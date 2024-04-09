@@ -1,0 +1,126 @@
+#{
+    -fx-opacity:0.2;
+}
+.text{
+    -fx-text-fill:white;
+}
+#lb{
+-fx-font-size:33px;
+   -fx-text-fill:white;
+   -fx-padding:20px 170px;
+}
+StackPane{
+
+}
+VBox{
+    -fx-padding:20px 270px;
+}
+.hbox2{
+    -fx-padding:20px 292px;
+}
+.btn1{
+    -fx-width:250px;
+    -fx-height:70px;
+    -fx-background-color:green;
+    -fx-background-radius:20px;
+    -fx-text-fill:white;
+    -fx-padding:10px 20px;
+}
+
+.btn2{
+    -fx-width:250px;
+    -fx-height:70px;
+    -fx-background-color:red;
+    -fx-background-radius:20px;
+    -fx-text-fill:white;
+    -fx-padding:10px 20px;
+}
+#animText{
+    -fx-text-fill:white;
+    -fx-font-size:13px;
+}
+.btnPlay{
+    -fx-background-color:red;
+    -fx-text-fill:white;
+    -fx-height:120px;
+
+}
+.btnPlay:hover{
+    -fx-background-color:wheat;
+    -fx-text-fill:red;
+    -fx-scale-x:1.05;
+    -fx-scale-y:1.05;
+    -fx-border-color:blue;
+    -fx-background-radius:30px;
+
+   -fx-border-radius:30px;
+}
+.images{
+    -fx-padding:20px 90px;
+}
+
+.option{
+    -fx-background-color:black;
+    -fx-text-fill:white;
+    -fx-width:400px;
+    -fx-height:400px;
+    -fx-padding:20px 20px;
+}
+.option:hover{
+    -fx-scale-x:1.05;
+    -fx-scale-y:1.05;
+}
+.tfield{
+    -fx-width:100px;
+    -fx-height:100px;
+    -fx-background-color:red;
+    -fx-text-fill:white;
+    -fx-padding:20px 20px;
+    -fx-font-weight:bold;
+
+
+}
+.sort{
+     -fx-padding:40px 20px;
+
+         -fx-border-radius:20px;
+}
+.top{
+     -fx-padding:40px 660px;
+}
+.nxt{
+    -fx-padding:20px 40px;
+    -fx-background-color:purple;
+    -fx-text-fill:white;
+    -fx-font-weight:bold;
+    -fx-background-radius:20px;
+    -fx-border-radius:20px;
+}
+.btnBox{
+        -fx-padding:0px 699px;
+
+
+}
+.btnBox:hover{
+    -fx-scale-y:1.02;
+    -fx-scale-x:1.02;
+}
+.header{
+
+    -fx-font-size:24px;
+    -fx-text-fill:blue;
+    -fx-font-weight:bold;}
+
+.labling{
+    -fx-padding:20px 20px;
+    -fx-font-size:15px;
+    -fx-text-fill:blue;
+    -fx-font-weight:bold;
+}
+BorderPane{
+    -fx-background-color:black;
+}
+.something{
+       -fx-text-fill:white;
+       -fx-padding:30px 0px
+}
